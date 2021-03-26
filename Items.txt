@@ -467,5 +467,34 @@
 	"ITEM_LUNARBADLUCK_PICKUP" : "Reduce your skill cooldowns by 2 seconds. <color=#FF7F7F>You are unlucky.</color>",
 	"ITEM_LUNARBADLUCK_DESC": "All skill cooldowns are reduced by <style=cIsUtility>2</style> <style=cStack>(+1 per stack)</style> seconds. All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> times for an <style=cIsHealth>unfavorable outcome</style>.", 
 	"ITEM_LUNARBADLUCK_LORE" : "It looks like starseed, tanning in dirt.\r\nIt smells like hot stone, and tall grass.\r\nIt tastes like spiced fruit, sweet and hot.\r\nIt feels like solar winds, and solar chimes.\r\nIt sounds like two brothers, chasing glass frogs in the sun.\r\n",
+	
+	"ITEM_LUNARSECONDARYREPLACEMENT_NAME": "May I take your hat, sir?",
+	"ITEM_LUNARSECONDARYREPLACEMENT_PICKUP": "Replace your Secondary Skill with 'Slicing Maelstrom'.",
+	"ITEM_LUNARSECONDARYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Secondary Skill </style> with <style=cIsUtility>Slicing Maelstrom</style>.  \n\nCharge up a projectile that deals <style=cIsDamage>175% damage per second</style> to nearby enemies, exploding after <style=cIsUtility>3</style> seconds to deal <style=cIsDamage>700% damage</style> and <style=cIsDamage>root</style> enemies for <style=cIsUtility>3</style> <style=cStack>(+3 per stack)</style> seconds. Recharges after 5 <style=cStack>(+5 per stack)</style> seconds.", 
+	"ITEM_LUNARSECONDARYREPLACEMENT_LORE" : "\u201C\u2026her arms were warped into terrible blades, so she may no longer find joy in study or tooling\u2026\u201D\r\n\r\n-The Evisceration of Kur-skan the Heretic, IV\r\n",
+
+	"ITEM_SKULLCOUNTER_NAME": "One confirmed kill in the navy seals",
+	"ITEM_SKULLCOUNTER_PICKUP": "Proof of a specific kind of kill. Has no direct effect of its own.",
+	"ITEM_SKULLCOUNTER_DESC": "Proof of a specific kind of kill. Has no direct effect of its own.",
+    
+    "ITEM_ROBOBALLBUDDY_NAME": "Ay yo where tf my ball go?",
+    "ITEM_ROBOBALLBUDDY_PICKUP": "Recruit a pair of Solus Probes that gain power with more allies.",
+    "ITEM_ROBOBALLBUDDY_DESC": "Every 30 seconds, <style=cIsUtility>summon two Solus Probes</style> that gain <style=cIsDamage>+100%</style> <style=cStack>(+100% per stack)</style> damage per <style=cIsUtility>ally on your team</style>.",
+	"ITEM_ROBOBALLBUDDY_LORE" : "13006; PROBE CORE INSTANCE REQUEST RECOGNIZED\r\n13006; PROBE CORE INSTANCE OVERVIEW FOR STORED MODELS:\r\n;SER ID> 04534098130\r\n;INST> MINING PROBE INSTANCES\r\n;HIGHLIGHTS\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY BOLD AND GREEN AND LONELY\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY COLD AND RED AND LONELY\r\n\r\n13010; DOCKING CORES\r\n13011; DEPLOYED\r\n",
+
+	"ITEM_PARENTEGG_NAME" : "e g g",
+	"ITEM_PARENTEGG_PICKUP": "Receive flat healing when attacked.",
+	"ITEM_PARENTEGG_DESC": "Heal from <style=cIsDamage>incoming damage</style> for <style=cIsHealing>15<style=cStack> (+15 per stack)</style></style>.",
+	"ITEM_PARENTEGG_LORE": "\"Yes \u2013 the egg. The grandparent incubates the eggs.\"\r\n\r\n\"And the child?\"\r\n\r\n\"The child lays the egg.\"\r\n\r\n\"And the egg becomes the\u2026?\"\r\n\r\n\"The parent.\"\r\n\r\n\"Okay. And the parent does what?\"\r\n\r\n\"Takes care of children \u2013 and the grandparent.\"\r\n\r\n\"And the grandparent is the youngest?\"\r\n\r\n\"Younger than the child, yes. But not the youngest.\"\r\n\r\n\"Who is the youngest?\"\r\n\r\n\"The parent.\"\r\n\r\n\"\u2026\"\r\n",
+	
+	"ITEM_LUNARSPECIALREPLACEMENT_NAME" : "the cheese touch",
+	"ITEM_LUNARSPECIALREPLACEMENT_PICKUP" : "Replace your Special Skill with 'Ruin'.",
+	"ITEM_LUNARSPECIALREPLACEMENT_DESC": "<style=cIsUtility>Replace your Special Skill</style> with <style=cIsUtility>Ruin</style>.  \n\nDealing damage adds a stack of <style=cIsDamage>Ruin</style> for 10 <style=cStack>(+10 per stack)</style> seconds. Activating the skill <style=cIsDamage>detonates</style> all Ruin stacks at unlimited range, dealing <style=cIsDamage>300% damage</style> plus <style=cIsDamage>120% damage per stack of Ruin</style>. Recharges after 8 <style=cStack>(+8 per stack)</style> seconds.",
+	"ITEM_LUNARSPECIALREPLACEMENT_LORE" : "\u201C\u2026and her heart, too wicked and full of hate, was left where she once stood \u2013 at the site of her betrayal.\u201D\r\n\r\n-The Evisceration of Kur-skan the Heretic, VI\r\n",
+	
+	"ITEM_LIGHTNINGSTRIKEONHIT_NAME" : "on jah",
+	"ITEM_LIGHTNINGSTRIKEONHIT_PICKUP" : "Chance on hit to call down a lightning strike.",
+	"ITEM_LIGHTNINGSTRIKEONHIT_DESC" : "<style=cIsDamage>10%</style> chance on hit to down a lightning strike, dealing <style=cIsDamage>500%</style> <style=cStack>(+500% per stack)</style> damage.",
+	"ITEM_LIGHTNINGSTRIKEONHIT_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Charged Perforator\r\nTechnician: Dema \"Dembones\" Brown\r\nTable Spec: GEC-4\r\nNotes:\r\n\r\n> Using GEC-4 due to electricity above safe levels.\r\n> Removing charged enamel and placing aside for substance analysis. It\u2019s solid, yet swimming.\r\n> Upon structural investigation, found cavities and internal batteries\r\n> Reduce lab electricity by 10 kilowatts\r\n> Electron generating veins present - charge is being supplied to the tooth?\r\n> Removed my lab coat, very staticky\r\n> Electron generation is still occurring in the severed object\r\n> Put some more ice in my drink WOW it's electric\r\n> Timestamping for dance break\r\n",
 	}
 }
