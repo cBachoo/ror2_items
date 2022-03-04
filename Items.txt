@@ -565,7 +565,7 @@
 	"ITEM_PERMANENTDEBUFFONHIT_DESC": "<style=cIsDamage>100%</style> chance on hit to reduce <style=cIsDamage>armor</style> by <style=cIsDamage>2</style> <style=cStack>(+2 per stack)</style> <style=cIsDamage>permanently</style>.", 
 	"ITEM_PERMANENTDEBUFFONHIT_LORE" : "\"There's countless ways to defeat your enemy. You can shoot them. You can punch them. Beat them, mash them, stick them in a stew, list goes on. But man, one thing that really makes me laugh...? That's right:\n\nBurying them under a mound of scorpions.\"\n\n\"You're messed up in the head, Bill.\"\n\n- Signal echoes, UES Contact Light",
 
-	"ITEM_MOREMISSILE_NAME" : "North Korea Business Deal",
+	"ITEM_MOREMISSILE_NAME" : "Impending Warcrime",
 	"ITEM_MOREMISSILE_PICKUP" : "All Missile items deal more damage and fire an additional two missiles.",
 	"ITEM_MOREMISSILE_DESC": "All missile items and equipment fire an additional <style=cIsDamage>2</style> <style=cIsDamage>missiles</style>. Increase missile damage by <style=cIsDamage>0%</style> <style=cStack>(+50% per stack)</style>",
 	"ITEM_MOREMISSILE_LORE" : "\"What's better than one missile...? MORE missiles. Easy, just fire a bunch of the things and reduce whatever you're fighting to a smoldering field of craters. Enemy nation? Missiles. Stupid bird taunting you? Missiles. Family argument going south? That's right - missiles! There's nothing a missile can't do, and what little the missile can't get done, a bunch of them can.\"\n\nEditor's Note: Hey, um, maybe we should edit this out? Cluster bombs are still banned according to the geneva conventions... And urging people to nuke their family members PROBABLY won't go over well with the target audience.\n\nThe Autobiography of Jans Czar, Modern King of Weaponry, First Draft",
