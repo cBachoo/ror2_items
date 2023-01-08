@@ -249,7 +249,7 @@
 	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> <style=cStack>(+5% per stack)</style> chance on hit to attach a <style=cIsDamage>bomb</style> to an enemy, detonating for <style=cIsDamage>180%</style> TOTAL damage.",
 	"ITEM_STICKYBOMB_LORE" : "In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\r\n\r\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\r\n\r\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\r\n\r\n\"What! We need these \u2013 this planet is trying to kill us! \"\r\n\r\n\"You\u2019re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\r\n\r\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\r\n\r\n\"\u2026What materials?\"\r\n\r\n\"Huh?\"\r\n\r\n\"What materials did you put in? We barely had anything.\"\r\n\r\n\"I just put in everything.\"\r\n",
 
-	"ITEM_TREASURECACHE_NAME": "(bed/woke)ge",
+	"ITEM_TREASURECACHE_NAME": "Pipe Bomb Defusal Key",
 	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains a powerful item.",
 	"ITEM_TREASURECACHE_DESC": "A <style=cIsUtility>hidden cache</style> containing an item (<style=cIsHealing>80%</style>/<style=cIsHealth>20%</style>) will appear in a random location <style=cIsUtility>on each stage</style>. Opening the cache <style=cIsUtility>consumes</style> this item.",
 	"ITEM_TREASURECACHE_LORE" : "Order: Key\r\nTracking Number: 12******\r\nEstimated Delivery: 01\/21\/2056\r\nShipping Method: Standard\r\nShipping Address: |||||||, Druid Hills, Earth\r\nShipping Details:\r\n\r\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\r\n\r\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.\r\n",
@@ -265,7 +265,7 @@
 	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Hot 'n Cold",
-	"ITEM_ICERING_NAME": "Runald's Band",
+	"ITEM_ICERING_NAME": "Dry Ice Chastity Cage",
 	"ITEM_ICERING_PICKUP": "High damage hits also blasts enemies with runic ice. Recharges over time.",
 	"ITEM_ICERING_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also blasts enemies with a <style=cIsDamage>runic ice blast</style>, <style=cIsUtility>slowing</style> them by <style=cIsUtility>80%</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> and dealing <style=cIsDamage>250%</style> <style=cStack>(+250% per stack)</style> TOTAL damage. Recharges every <style=cIsUtility>10</style> seconds.",
 	"ITEM_ICERING_LORE": "\"Should memories be lost,\r\nShould oceans be clouded,\r\nWill you bring me fervor?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa\r\n",
@@ -280,12 +280,12 @@
 	"ITEM_SLOWONHIT_DESC": "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-60% movement speed</style> for <style=cIsUtility>2s</style> <style=cStack>(+2s per stack)</style>.",
 	"ITEM_SLOWONHIT_LORE": "Order: Chronobauble\r\nTracking Number: 99******\r\nEstimated Delivery: 03\/03\/2066\r\nShipping Method: Priority\r\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\r\nShipping Details:\r\n\r\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\r\n\r\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\r\n\r\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!\r\n",
 
-	"ITEM_EXTRALIFE_NAME": "Djungleskog, but with rights",
+	"ITEM_EXTRALIFE_NAME": "High Credit Score Djungleskog",
 	"ITEM_EXTRALIFE_PICKUP": "Cheat death. Consumed on use.",
 	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
 	"ITEM_EXTRALIFE_LORE": "Hey Dio,\r\n\r\nWow, you have gotten older since the last time I wrote! How old are you now \u2013 10? And so much grumpier, too. I\u2019ve never seen a cat so grumpy. What do you have to be grumpy about?\r\n\r\nDespite the fact that you are the pickiest eater I know \u2013 and love to meow all throughout the night, every night \u2013 it still makes me happy to hear you bounding down the stairs every time I come home. I like when I wake up and I see you sleeping across from me. I like when you sit at the dining table, like you\u2019re going to eat with us too. I like how you hit the power button every time you walk across my laptop. I like how shamelessly needy you are.\r\n\r\nPlease live a long life \u2013 I\u2019m needy too, and I\u2019d like that a lot.\r\n\r\nLove,\r\nDuncan\r\n\r\nPS would it kill you to purr for mama every now and then?\r\n",
 	
-	"ITEM_EXTRALIFECONSUMED_NAME": "Djungleskog, but with rights (Consumed)",
+	"ITEM_EXTRALIFECONSUMED_NAME": "High Credit Score Djungleskog",
 	"ITEM_EXTRALIFECONSUMED_PICKUP": "A spent item with no remaining power.",
 	"ITEM_EXTRALIFECONSUMED_DESC": "A spent item with no remaining power.",
 	
@@ -334,7 +334,7 @@
 	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>50% <style=cStack>(+50% per stack)</style></style> of the amount you <style=cIsHealing>healed</style>.",
 	"ITEM_BARRIERONOVERHEAL_LORE" : "Order: Artifact E-8EE572\r\nTracking Number: 490******\r\nEstimated Delivery: 08\/10\/2056\r\nShipping Method: Priority\r\nShipping Address: Titan Museum of History and Culture, Titan\r\n\r\nSorry about the delay, we've had a flood of orders come in from this site. But it was exactly where you said we should look - there was a sealed off room where you marked the excavation diagram. I finished translating the engraving too, so consider that a bonus for the time we took to get to it:\r\n\r\n\"I am the will to survive made manifest. To those who never lose hope, to they who try in the face of impossible odds, I offer not \r\nprotection, but the means to bring one's unconquerable spirit forth as the defender of their mortal lives.\"\r\n\r\nIt\u2019s so lightweight, we figure it must've been entirely decorative. That seems to line up with the text. In any case, I hope it makes a good exhibit! I'm a big fan of the museum, so it wouldn't hurt to give me a partner's discount next time I visit, right?\r\n",
 
-	"ITEM_TONICAFFLICTION_NAME": "Roid Withdrawl",
+	"ITEM_TONICAFFLICTION_NAME": "Lean Withdrawl",
 	"ITEM_TONICAFFLICTION_PICKUP": "<color=#FF7F7F>Reduce ALL stats when not under the effects of Spinel Tonic.</color>",
 
 	"ITEM_TITANGOLDDURINGTP_NAME": "Gold Seed of Dad",
