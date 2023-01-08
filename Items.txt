@@ -285,7 +285,7 @@
 	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
 	"ITEM_EXTRALIFE_LORE": "Hey Dio,\r\n\r\nWow, you have gotten older since the last time I wrote! How old are you now \u2013 10? And so much grumpier, too. I\u2019ve never seen a cat so grumpy. What do you have to be grumpy about?\r\n\r\nDespite the fact that you are the pickiest eater I know \u2013 and love to meow all throughout the night, every night \u2013 it still makes me happy to hear you bounding down the stairs every time I come home. I like when I wake up and I see you sleeping across from me. I like when you sit at the dining table, like you\u2019re going to eat with us too. I like how you hit the power button every time you walk across my laptop. I like how shamelessly needy you are.\r\n\r\nPlease live a long life \u2013 I\u2019m needy too, and I\u2019d like that a lot.\r\n\r\nLove,\r\nDuncan\r\n\r\nPS would it kill you to purr for mama every now and then?\r\n",
 	
-	"ITEM_EXTRALIFECONSUMED_NAME": "High Credit Score Djungleskog",
+	"ITEM_EXTRALIFECONSUMED_NAME": "High Credit Score Djungleskog (Consumed)",
 	"ITEM_EXTRALIFECONSUMED_PICKUP": "A spent item with no remaining power.",
 	"ITEM_EXTRALIFECONSUMED_DESC": "A spent item with no remaining power.",
 	
